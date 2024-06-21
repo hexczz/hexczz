@@ -2,7 +2,7 @@
 
 ![](https://i.ibb.co/yFts33h/Art-by-Dillon-Samuelson.jpg)
 
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=333&size=36&multiline=true&width=970&height=60&lines=not+sure )](https://git.io/typing-svg)
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=#333&size=36&multiline=true&width=970&height=60&lines=not+sure )](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3r0m4&label=Profile%20views&color=0e75b6&style=flat" alt="g3r0m4" /> </p>
 
